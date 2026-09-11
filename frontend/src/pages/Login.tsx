@@ -17,7 +17,7 @@ export default function Login() {
             navigate("/dashboard");
         }, 1000);
     };
-
+    
     return (
         <div className="min-h-screen bg-slate-100 flex items-center justify-center p-4">
             <div className="relative w-full max-w-md">
