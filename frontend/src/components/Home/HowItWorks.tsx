@@ -20,7 +20,7 @@ export default function HowItWorks() {
                     </h2>
                     <p className="mt-5 text-gray-500 max-w-lg mx-auto leading-relaxed">No complicated onboarding, no steep learning curve. Just connect, create, and grow.</p>
                 </div>
-
+ 
                 <div className="space-y-6">
                     {steps.map((s, i) => (
                         <div key={s.step} className="flex gap-6 items-start">
