@@ -39,7 +39,7 @@ const features = [
         color: "bg-red-50 text-red-500",
     },
 ];
-
+ 
 export default function Features() {
     return (
         <section id="features" className="py-24 bg-slate-50">
